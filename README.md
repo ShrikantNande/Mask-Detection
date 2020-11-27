@@ -23,9 +23,9 @@ This dataset consists of 3835 images belonging to two classes:
 
 
 ## :envelope_with_arrow: Clone the repo
-Clone repo
+Clone repo <br />
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
 
-Make changes in directory path.[Live Session]
+Make changes in directory path.[Live Session] <br />
 $ python3 test.py
 
