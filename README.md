@@ -22,10 +22,6 @@ This dataset consists of 3835 images belonging to two classes:
 - without_mask: 1919 images. :sneezing_face:
 
 
-## :envelope_with_arrow: Clone the repo
-Clone repo <br />
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
-
 Make changes in directory path.[Live Session] <br />
 $ python3 test.py
 
